@@ -6,8 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  👋 Olá! Sou Gabriel, um estudante de Java apaixonado do Brasil ansioso para aprender e crescer. Explore meu perfil do GitHub para ver meus projetos e contribuições!
-
+ 👋 Hi there! I'm Gabriel, a passionate Java student from Brazil eager to learn and grow. Explore my GitHub profile to see my projects and contributions!
   - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
