@@ -10,7 +10,7 @@
   
   - 🌱 I am currently an intern at a technology company focused on the banking security area and the company gives me a scholarship for college in systems analysis and development <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am looking to be promoted in the company I am in, but I am open to proposals and I would also like to go to the area of AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
