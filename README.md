@@ -17,13 +17,22 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 20 years old, currently living in Brazil. I'm not fluent in English, but I'm studying. Have experience with:
+  -  C
+  -  C++
+  -  CSS
+  -  Html 5
+  -  Java
+  -  JavaScript
+  -  Python
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 💬 I'm trying to create a YouTube channel about programming. I've been doing this because it seems like a good way to share what I'm learning and to study at the same time.
+
+  - ⚡ When I'm not coding, you'll find me immersed in a good book, manga, or comics, enjoying movies, or diving into the world of games! I believe our diverse interests enrich our perspectives and enhance problem-solving skills. \o/
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg](https://www.youtube.com/@Aprendendo_a_Programar))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
