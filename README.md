@@ -33,9 +33,9 @@
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg](https://www.youtube.com/@Aprendendo_a_Programar))
-[![Instagram](<!--https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)-->
+
 [![LinkedIn](<!--https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)-->
-[![Kaggle](<!--https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)-->
+
 <div>
 <a href="https://github.com/GabrielEliezer">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEliezer&layout=compact&langs_count=7&theme=dracula"/>
