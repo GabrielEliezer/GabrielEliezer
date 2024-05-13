@@ -32,7 +32,7 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg](https://www.youtube.com/@Aprendendo_a_Programar))
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Aprendendo_a_Programar)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eliezer-8aa729233/)
 
