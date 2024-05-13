@@ -52,8 +52,8 @@
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
 -->
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T215913Z&X-Amz-Expires=300&X-Amz-Signature=a7d995688e6eb64e929e570386d80f30db55ce9a1719d0e653511d3de525bd8a&X-Amz-SignedHeaders=host&actor_id=92634900&key_id=0&repo_id=580139772" alt="Imagem">
+<p align="center">
+  <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T215913Z&X-Amz-Expires=300&X-Amz-Signature=a7d995688e6eb64e929e570386d80f30db55ce9a1719d0e653511d3de525bd8a&X-Amz-SignedHeaders=host&actor_id=92634900&key_id=0&repo_id=580139772.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
