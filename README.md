@@ -32,6 +32,8 @@
 
 <h2 align="center">🔗 Useful Links</h2>
 
+<h2 align="center">🔗 Useful Links</h2>
+
 <div align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/64639017-b1e6-4d0f-b76b-5492c32a7105" target="_blank" rel="noopener noreferrer"><b>🌐 Google Profile</b></a> |
   <a href="https://www.credly.com/users/gabriel-eliezer" target="_blank" rel="noopener noreferrer"><b>🏅 Certifications</b></a> |
