@@ -33,8 +33,8 @@
 <h2 align="center">🔗 Useful Links</h2>
 
 <div align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/64639017-b1e6-4d0f-b76b-5492c32a7105" target="_blank"><b>🌐 Google Profile</b></a> |
-  <a href="https://www.credly.com/users/gabriel-eliezer" target="_blank"><b>🏅 Certifications</b></a> |
+  <a href="https://www.cloudskillsboost.google/public_profiles/64639017-b1e6-4d0f-b76b-5492c32a7105" target="_blank"><b>🌐 Google Public Profile</b></a> |
+  <a href="https://www.credly.com/users/gabriel-eliezer" target="_blank"><b>🏅 Credly</b></a> |
   <a href="https://www.linkedin.com/in/gabriel-eliezer-8aa729233/" target="_blank"><b>💼 LinkedIn</b></a> |
   <a href="https://www.youtube.com/@Eliezer_TechLab/videos" target="_blank"><b>🎥 YouTube</b></a>
 </div>
