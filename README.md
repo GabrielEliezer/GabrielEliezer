@@ -20,41 +20,30 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 20 years old, currently living in Brazil. I'm not fluent in English, but I'm studying. Have experience with:
-  -  C
-  -  C++
-  -  CSS
-  -  Html 5
-  -  Java
-  -  JavaScript
-  -  Python
+  - 💬 I am 20 years old, currently living in Brazil. I'm not fluent in English, but I'm studying.
 
   - 💬 I'm trying to create a YouTube channel about programming. I've been doing this because it seems like a good way to share what I'm learning and to study at the same time.
 
   - ⚡ When I'm not coding, you'll find me immersed in a good book, manga, or comics, enjoying movies, or diving into the world of games! I believe our diverse interests enrich our perspectives and enhance problem-solving skills. \o/
 </details>
 
-<!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Aprendendo_a_Programar)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eliezer-8aa729233/)
+---
+
+## 🔗 **Links Úteis**
+
+- [**Meu Perfil Público do Google**](https://g.dev/seu-perfil) 🌐
+- [**Credly - Minhas Certificações**](https://www.credly.com/users/seu-usuario/badges) 🏅
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eliezer-8aa729233/)
+- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Aprendendo_a_Programar)
+---
 
 <div>
 <a href="https://github.com/GabrielEliezer">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEliezer&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEliezer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<!-- GithubStats -->
-<!--![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)-->
 
-<!-- Portfolio 
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
--->
-<!-- GIF -->
 <p>
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif" alt="Imagem">
 </p>
