@@ -11,7 +11,7 @@
 <p>
  👋 Hi there! I'm Gabriel, a passionate Java student from Brazil eager to learn and grow. Explore my GitHub profile to see my projects and contributions!
   
-  - 🌱 I am currently an intern at a technology company focused on the banking security area and the company gives me a scholarship for college in systems analysis and development 
+  - 🌱 I am currently an intern at a technology company focused on the banking security area and the company gives me a scholarship for college in systems analysis and development.
 
   - 🔭 I am looking to be promoted in the company I am in, but I am open to proposals and I would also like to go to the area of AI and Machine Learning.
 </p>
