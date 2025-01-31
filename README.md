@@ -58,6 +58,7 @@
 <p>
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif" alt="Imagem">
 </p>
+
 ## 🛠️ **Tech Stack**
 
 ### ☁️ **Cloud Computing & Big Data**
