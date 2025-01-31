@@ -24,29 +24,35 @@
 
   - 💬 I'm trying to create a YouTube channel about programming. I've been doing this because it seems like a good way to share what I'm learning and to study at the same time.
 
-  - ⚡ When I'm not coding, you'll find me immersed in a good book, manga, or comics, enjoying movies, or diving into the world of games! I believe our diverse interests enrich our perspectives and enhance problem-solving skills. \o/
+  - ⚡ When I'm not coding, you'll find me immersed in a good book, manga, or comics, enjoying movies, or diving into the world of games! I believe our diverse interests enrich our perspectives and enhance problem-solving skills.
 </details>
 
 
 ---
 
-## 🔗 **Links Úteis**
+<h2 align="center">🔗 Useful Links</h2>
 
-- [**Meu Perfil Público do Google**](https://g.dev/seu-perfil) 🌐
-- [**Credly - Minhas Certificações**]([https://www.credly.com/users/seu-usuario/badges](https://www.credly.com/users/gabriel-eliezer)) 🏅
-- [**Linkedin - Meu Perfil LinkedIn**]([https://www.linkedin.com/in/gabriel-eliezer-8aa729233/](https://www.linkedin.com/in/gabriel-eliezer-8aa729233/))
-- [**Youtube - Meu canal do Youtube**]([https://www.youtube.com/@Aprendendo_a_Programar](https://www.youtube.com/@Eliezer_TechLab/videos))
----
-
-<div>
-<a href="https://github.com/GabrielEliezer">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEliezer&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEliezer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/64639017-b1e6-4d0f-b76b-5492c32a7105"><b>🌐 Google Profile</b></a> |
+  <a href="https://www.credly.com/users/gabriel-eliezer"><b>🏅 Certifications</b></a> |
+  <a href="https://www.linkedin.com/in/gabriel-eliezer-8aa729233/"><b>💼 LinkedIn</b></a> |
+  <a href="https://www.youtube.com/@Eliezer_TechLab/videos"><b>🎥 YouTube</b></a>
 </div>
 
-<p>
+
+---
+
+<div align="center">
+  <a href="https://github.com/GabrielEliezer">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEliezer&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEliezer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif" alt="Imagem">
-</p>
+</div>
+
 
 ## 🛠️ **Tech Stack**
 
