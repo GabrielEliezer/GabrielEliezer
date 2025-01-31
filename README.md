@@ -33,9 +33,9 @@
 ## 🔗 **Links Úteis**
 
 - [**Meu Perfil Público do Google**](https://g.dev/seu-perfil) 🌐
-- [**Credly - Minhas Certificações**](https://www.credly.com/users/seu-usuario/badges) 🏅
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eliezer-8aa729233/)
-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Aprendendo_a_Programar)
+- [**Credly - Minhas Certificações**]([https://www.credly.com/users/seu-usuario/badges](https://www.credly.com/users/gabriel-eliezer)) 🏅
+- [**Linkedin - Meu Perfil LinkedIn**]([https://www.linkedin.com/in/gabriel-eliezer-8aa729233/](https://www.linkedin.com/in/gabriel-eliezer-8aa729233/))
+- [**Youtube - Meu canal do Youtube**]([https://www.youtube.com/@Aprendendo_a_Programar](https://www.youtube.com/@Eliezer_TechLab/videos))
 ---
 
 <div>
